@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Geek Lounge](https://www.geeklounge.com.ar/)
 
-- 🌱 I’m currently learning **Gatsy and Nest.js (static-site generators)**
+- 🌱 I’m currently learning **Gatsby and Nest.js (static-site generators)**
 
 - 👯 I’m looking to collaborate with a **Esports team**
 
