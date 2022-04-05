@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Josias</h1>
 <h3 align="center">A passionate esports enthusiast, full-stack developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josias-montivero&label=Profile%20views&color=0e75b6&style=flat" alt="josias-montivero" /> </p>
-
-<p align="left"> <a href="https://twitter.com/asm0nt" target="blank"><img src="https://img.shields.io/twitter/follow/asm0nt?logo=twitter&style=for-the-badge" alt="asm0nt" /></a> </p>
-
 - 🔭 I’m currently working on [Geek Lounge](https://www.geeklounge.com.ar/)
 
 - 🌱 I’m currently learning **Gatsby and Nest.js (static-site generators)**
-
-- 👯 I’m looking to collaborate with a **Esports team**
 
 - 💬 Ask me about **NodeJS, ORMs (sequelize, mongoose) and ExpressJS**
 
